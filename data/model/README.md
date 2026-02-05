@@ -19,3 +19,4 @@ of the AI-powered crop disease detection model.
 ## Purpose
 The model developed in this folder is responsible for analyzing crop images
 and identifying diseases using deep learning techniques.
+Add model directory structure
