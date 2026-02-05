@@ -1,4 +1,4 @@
-# AI Model Development
+## AI Model Development
 
 This folder contains all files related to the development, training, and evaluation
 of the AI-powered crop disease detection model.
@@ -19,4 +19,3 @@ of the AI-powered crop disease detection model.
 ## Purpose
 The model developed in this folder is responsible for analyzing crop images
 and identifying diseases using deep learning techniques.
-Add model directory structure
